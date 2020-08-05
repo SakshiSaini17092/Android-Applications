@@ -1,7 +1,7 @@
 This is the Solution for the Anagrams workshop. 
 ----
 This workshop is part of the Applied CS with Android course:
-----
+
 
 http://g.co/cswithandroid
 
