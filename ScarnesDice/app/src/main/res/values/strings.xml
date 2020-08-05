@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Scarne\'s Dice</string>
+    <string name="playerScore"> Your Score : 0 Computer Score : 0</string>
+<!--    <string name="computerScore"> Computer Score : </string>-->
+</resources>
