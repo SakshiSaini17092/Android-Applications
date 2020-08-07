@@ -1,4 +1,5 @@
 This is the Solution code for the Ghost workshop. 
+----
 This workshop is part of the Applied CS with Android course:
 
 http://g.co/cswithandroid
